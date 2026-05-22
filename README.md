@@ -5,6 +5,7 @@ This repository contains a machine learning project built in Google Colab to ana
 
 ## Technologies Used
 - Python
+- Google Colab
 - Pandas
 - NumPy
 - Matplotlib
